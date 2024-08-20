@@ -6,7 +6,7 @@ inputs:
     required: true
     default: 'Barsoom'
 outputs:
-  greetings:
+  greeting:
     description: 'How we greeted you'
 runs:
   using: 'node20'
