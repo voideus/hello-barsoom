@@ -30947,7 +30947,7 @@ var __webpack_exports__ = {};
 try {
     const name = _actions_core__WEBPACK_IMPORTED_MODULE_0__.getInput('name');
     const output_value = `Hello ${name}!`;
-    _actions_core__WEBPACK_IMPORTED_MODULE_0__.setOutput('greeting ', output_value)
+    _actions_core__WEBPACK_IMPORTED_MODULE_0__.setOutput('greeting', output_value)
 } catch (error) {
     _actions_core__WEBPACK_IMPORTED_MODULE_0__.setFailed(error.message)
 }
